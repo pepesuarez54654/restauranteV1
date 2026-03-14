@@ -1,0 +1,52 @@
+[
+    {
+        "id": "m1",
+        "numero": 1,
+        "estado": "Libre"
+    },
+    {
+        "id": "m2",
+        "numero": 2,
+        "estado": "Libre"
+    },
+    {
+        "id": "m3",
+        "numero": 3,
+        "estado": "Ocupada"
+    },
+    {
+        "id": "m4",
+        "numero": 4,
+        "estado": "Libre"
+    },
+    {
+        "id": "m5",
+        "numero": 5,
+        "estado": "Ocupada"
+    },
+    {
+        "id": "m6",
+        "numero": 6,
+        "estado": "Libre"
+    },
+    {
+        "id": "m7",
+        "numero": 7,
+        "estado": "Libre"
+    },
+    {
+        "id": "m8",
+        "numero": 8,
+        "estado": "Libre"
+    },
+    {
+        "id": "m9",
+        "numero": 9,
+        "estado": "Libre"
+    },
+    {
+        "id": "m10",
+        "numero": 10,
+        "estado": "Libre"
+    }
+]

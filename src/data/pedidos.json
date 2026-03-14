@@ -1,0 +1,146 @@
+[
+    {
+        "id": "ord-001",
+        "origen": "Mesa 3",
+        "items": [
+            {
+                "id": "p1",
+                "nombre": "Bandeja Saludable",
+                "cantidad": 2,
+                "precio": 20000
+            },
+            {
+                "id": "b4",
+                "nombre": "Jugo de mora",
+                "cantidad": 2,
+                "precio": 5000
+            }
+        ],
+        "total": 50000,
+        "estado": "En preparación",
+        "hora": "12:30 PM"
+    },
+    {
+        "id": "ord-002",
+        "origen": "Domicilio",
+        "items": [
+            {
+                "id": "e2",
+                "nombre": "Pizza",
+                "cantidad": 1,
+                "precio": 15000
+            },
+            {
+                "id": "p2",
+                "nombre": "Sopa de pollo",
+                "cantidad": 1,
+                "precio": 15000
+            }
+        ],
+        "total": 30000,
+        "estado": "Recibido",
+        "hora": "12:45 PM"
+    },
+    {
+        "id": "ord-003",
+        "origen": "Mesa 5",
+        "items": [
+            {
+                "id": "e3",
+                "nombre": "Hamburgesa con papas fritas",
+                "cantidad": 1,
+                "precio": 20000
+            },
+            {
+                "id": "b1",
+                "nombre": "Limonada",
+                "cantidad": 2,
+                "precio": 4000
+            }
+        ],
+        "total": 28000,
+        "estado": "Listo",
+        "hora": "12:15 PM"
+    },
+    {
+        "id": "ord-004",
+        "origen": "Domicilio",
+        "items": [
+            {
+                "id": "p3",
+                "nombre": "Pollo con caldo",
+                "cantidad": 3,
+                "precio": 28000
+            }
+        ],
+        "total": 84000,
+        "estado": "Entregado",
+        "hora": "11:30 AM"
+    },
+    {
+        "id": "ord-005",
+        "origen": "Mesa 1",
+        "items": [
+            {
+                "id": "p4",
+                "nombre": "Frijoles con arepa",
+                "cantidad": 1,
+                "precio": 12000
+            },
+            {
+                "id": "b3",
+                "nombre": "Café",
+                "cantidad": 2,
+                "precio": 5000
+            }
+        ],
+        "total": 22000,
+        "estado": "Recibido",
+        "hora": "12:55 PM"
+    },
+    {
+        "id": "ord-006",
+        "origen": "Domicilio",
+        "items": [
+            {
+                "id": "d4",
+                "nombre": "Torta de Estrellas",
+                "cantidad": 1,
+                "precio": 50000
+            }
+        ],
+        "total": 50000,
+        "estado": "En preparación",
+        "hora": "12:40 PM"
+    },
+    {
+        "id": "ord-007",
+        "origen": "Mesa 8",
+        "items": [
+            {
+                "id": "d1",
+                "nombre": "Pastel de Chocolate",
+                "cantidad": 2,
+                "precio": 30000
+            }
+        ],
+        "total": 60000,
+        "estado": "Listo",
+        "hora": "12:10 PM"
+    },
+    {
+        "id": "ord-008",
+        "origen": "Domicilio",
+        "items": [
+            {
+                "id": "e1",
+                "nombre": "Menú del dia",
+                "cantidad": 2,
+                "precio": 14000
+            }
+        ],
+        "total": 28000,
+        "estado": "Entregado",
+        "hora": "11:00 AM"
+    }
+]
